@@ -28,6 +28,7 @@
 ![Fedora](https://img.shields.io/badge/Fedora-0f1b2d?style=for-the-badge&logo=fedora&logoColor=8fb3dc)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0f1b2d?style=for-the-badge&logo=ubuntu&logoColor=8fb3dc)
 
+<br>
 
 [![Email](https://img.shields.io/badge/Email-0f1b2d?style=flat-square&logo=gmail&logoColor=8fb3dc)](mailto:nicolas.mnesves@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0f1b2d?style=flat-square&logo=github&logoColor=8fb3dc)](https://github.com/nicolasmneves)
