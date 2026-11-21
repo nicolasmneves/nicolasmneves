@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.svg?v=2" width="100%" alt="nicolas@neves — Java Developer · Robótica FRC" />
+<img src="./card.svg" width="100%" alt="nicolas@neves — Java Developer · Robótica FRC" />
 
 <br><br>
 
