@@ -141,7 +141,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-282828?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828)](https://github.com/nicolasmnesves-sudo)
+[![GitHub](https://img.shields.io/badge/GitHub-282828?style=for-the-badge&logo=github&logoColor=ebdbb2&color=282828)](https://github.com/nicolasmneves)
 
 </div>
 
@@ -158,6 +158,6 @@
   Obrigado pela visita! Compilando o proximo projeto...
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=nicolasmnesves-sudo&style=for-the-badge&color=fabd2f&labelColor=282828)
+![Profile Views](https://komarev.com/ghpvc/?username=nicolasmneves&style=for-the-badge&color=fabd2f&labelColor=282828)
 
 </div>
